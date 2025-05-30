@@ -14,10 +14,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaov222&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=Cartorioebac.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Linguagens utilizadas
 
@@ -25,4 +21,4 @@
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedrobrocaldi/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/jo%C3%A3o-victor-pereira-376956190/)
