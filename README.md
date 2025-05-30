@@ -1,14 +1,19 @@
 ## Oi, Eu sou João Victor  👋
 
-- 🔭 Atualmente trabalho como Analista de Dados e Professor de Física.
-- 🌱 Estudando Business Intelligence.
+Olá, Meu nome é João Victor de Oliveira Pereira, tenho 23 anos e atualmente sou Licenciado em Física e Analista de Dados pela Ebac.
 
+Estou em transição de carreira com foco em Análise de Dados, buscando oportunidades que me desafiem e me permitam aplicar na prática todo o conhecimento adquirido.
 
-### Olá 👋
+ Minhas skills:
 
-###### Sobre o Pedro
-
-
+• Python (Pandas, Pyspark)
+• SQL (MySQL, Microsoft SQL Server)
+• BI (Google Looker Studio, Power BI)
+• Excel e Google Sheets Avançado
+• Versionamento de Código com Git
+• Soluções Analíticas
+• Métodos Quantitativos de Matemática e Estatística
+• ETL
 
 ### Detalhes
 
