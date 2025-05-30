@@ -4,27 +4,25 @@
 - 🌱 Estudando Business Intelligence.
 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joaov222&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-joaov222.vercel.app/api/top-langs/?username=joaov222&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+### Olá 👋
+
+###### Sobre o Pedro
 
 
-#### Main Stack:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+### Detalhes
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaov222&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Workstation Tools:
+### Projetos
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaov222&repo=DashboardDeDadosDaCovid19.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-&nbsp;
-&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedrobrocaldi/)
